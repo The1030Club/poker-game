@@ -1,0 +1,47 @@
+body {
+    background-color: #277714;
+}
+
+.btn {
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 10px;
+    margin: 2%;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: green;
+}
+
+.hand {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    width: 175px;
+    height: 240px;
+    background-color: white;
+    margin: 2%;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.js-CardRank{
+
+}
+
+.js-cardSuit {
+    font-size: 25px
+}
+
+
+
